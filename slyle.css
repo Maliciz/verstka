@@ -43,6 +43,14 @@ header nav{
      gap: 37px
      ;
 }
+rtrtuthue{
+      font-family: 'Nanito', sans-serif;
+      font-size: 25px;
+      font-style: bold;
+      
+}
+
+
 .btn {
   background: #4a6cf7;
   color: white;
@@ -54,7 +62,7 @@ header nav{
 }
 
 .btn-outline {
-  background: none;
+  background: white;
   border: 1px solid #4a6cf7;
   color: #4a6cf7;
   padding: 10px 20px;
