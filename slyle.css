@@ -1,0 +1,15 @@
+*{
+margin: 0;
+padding: 0;
+border: none;
+}
+:root {
+    --hlr: rgb(255, 255, 255);
+    --mlr: rgb(0, 0, 0);
+    --flr: rgb(255, 255, 255);
+    --shadow:  rgb(126, 98, 82);
+}
+body{
+    height: 1117px;
+    width: 1728px;
+}
